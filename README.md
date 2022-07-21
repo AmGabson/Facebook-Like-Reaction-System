@@ -1,33 +1,28 @@
-# Facebook-Like-Reaction-System
 
-**=== DISCOVER GABSON 2021 ===**
+<h1>Facebook-Like Reaction System</h1><p>
 
-**----- Facebook-Like Reaction System with PHP, JQUERY, AJAX AND SQL ------**
+<b>Facebook-Like Reaction System with PHP, JQUERY, AJAX AND SQL</b><p>
 
-**=== HOW TO USE ===**
+<b>==== STEPS TO RUN ====</b>
 
-- Unzip the code to your root directory (htdocs).
-- Locate "DB sql" folder on the root, import/copy the query to your DB
-- Update the "Config.php" connection file to your custom DB values
-- Open "posts.php" in Browser
+- Locate and import execute the <b>"like_system.sql"</b> on <b>"DB sql"</b> folder
+- Update the "Config.php" to your database connection configuration
+- Open <b>"localhost/path-to-file/posts.php"</b> in the Browser
 - You are Done!!
-- You can decide to use $_SESSION value to replace the userid as used in posts.php and like-post.php 
 
 
- **== Disclaimer ==**
-
-This code can be modified to any custom App, no prior permission needed!
+<p><br><p>
+ <b>Disclaimer</b><br>
+ This code can be modified to any custom App, no prior permission needed!
+ @Gabson 2021<p><br>
  
-**@Gabson 2021**
-
  
-**Links**
+ <b>Links</b><br>
  
  - YouTube: https://youtu.be/zUJri66lMc8
  - Mobile: +234 907 290 0561
  - Email: Gabson2939@gmail.com, augustinegabriel2939@gmail.com
  - gitHub: https://github.com/AmGabson
  
- 
- 
- **feel free to send me a DM for any Error or help concerning PHP,AJAX,JQUERY,SQL**
+<p>
+ ***feel free to send me a DM for any Error or help concerning PHP,AJAX,JQUERY,SQL***
